@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Studuji na Střední průmyslové škole na Třebešíně
 <!--
 **Vais125/Vais125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
